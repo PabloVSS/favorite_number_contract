@@ -81,7 +81,7 @@
 			},
 			{
 				"inputs": [],
-				"name": "retrive",
+				"name": "retrieve",
 				"outputs": [
 					{
 						"internalType": "uint256",
@@ -134,11 +134,11 @@
 	},
 	"sources": {
 		"contracts/SimpleStorage.sol": {
-			"keccak256": "0xb3abb69cfc469153cf8bcf1b58690c3067b1bfb4e7ced08bc420e9976bbdcf6f",
+			"keccak256": "0x5ad1a75827be4860d948b5d701c001f70ba9caf06a06c360ce8e6d8d401c6a7f",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://07c6663aeb974fc97d30f655d830287ddeef49c37035c7c8d3eea9e364f0d2bc",
-				"dweb:/ipfs/QmaNZ4rhuueBPfXZxGQppKwZAsWG17iVozw9YzSrSCWXQe"
+				"bzz-raw://5eee659c4d07ca057bdd880e001b67e2a2faf9f5cd7ff5ef9550d2cf571ae579",
+				"dweb:/ipfs/QmcGst3ZyijVBXfq32iSxoU9FE1Tmv3skmGhoFPNjRPo9X"
 			]
 		}
 	},
