@@ -7,8 +7,6 @@ O objetivo principal é compreender os fundamentos básicos da criação e imple
 En
 ---
 
-# 📝 Contracts Favorite Number
-
 This is my first project using **Solidity**, where I developed **three smart contracts** with functionalities to store, manage, list and map a person's name and favorite number. The project also explores concepts such as extending and modifying existing contracts.
 The main goal is to understand the basics of creating and implementing smart contracts on the blockchain.
 
