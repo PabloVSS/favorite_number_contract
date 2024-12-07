@@ -353,4 +353,40 @@ contract AddFiveStorage is SimpleStorage{
 
 - *contract AddFiveStorage is SimpleStorage{...}*: This function adds the value 5 to the number passed in the store function of the SimpleSotrage contract.
 
+### 🛠️ Instalação
+Para instalar e executar este projeto localmente, siga os passos abaixo:
 
+  -  1. Clone o repositório:
+        
+```bash
+ git clone https://github.com/PabloVSS/favorite_number_contract.git
+```
+ -  2. Navegue até o diretório do projeto:
+       
+```bash
+ cd favorite_number_contract
+```
+
+ -  3. Instale as dependências necessárias:
+
+```bash
+ npm install
+
+```
+-   4. Compile os contratos:
+```bash
+ npx hardhat compile
+```
+
+-   5. Execute os testes:
+    6. 
+```bash
+npx hardhat test
+```
+
+## 📄 Licença
+Este projeto está licenciado sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
+
+This project is licensed under the MIT license. See the LICENSE file for more details.
+
+      
