@@ -1,6 +1,6 @@
 # 📝 Contracts Favorite Number
 
-Este é o meu primeiro projeto utilizando **Solidity**, onde desenvolvi **três contratos inteligentes** com funcionalidades para armazenar, gerenciar, listar e mapear o nome e o número favorito de uma pessoa. O projeto também explora conceitos como extensão e modificação de contratos existentes.  
+Este é o meu primeiro projeto utilizando **Solidity**, realizado atráves do curso  onde desenvolvi **três contratos inteligentes** com funcionalidades para armazenar, gerenciar, listar e mapear o nome e o número favorito de uma pessoa. O projeto também explora conceitos como extensão e modificação de contratos existentes.  
 O objetivo principal é compreender os fundamentos básicos da criação e implementação de contratos inteligentes na blockchain.
 
 ---
