@@ -367,23 +367,6 @@ Para instalar e executar este projeto localmente, siga os passos abaixo:
  cd favorite_number_contract
 ```
 
- -  3. Instale as dependências necessárias:
-
-```bash
- npm install
-
-```
--   4. Compile os contratos:
-```bash
- npx hardhat compile
-```
-
--   5. Execute os testes:
-    6. 
-```bash
-npx hardhat test
-```
-
 ## 📄 Licença
 Este projeto está licenciado sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
 
